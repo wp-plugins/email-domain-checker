@@ -1,4 +1,4 @@
-=== Email Domain Checker ===
+=== Email Domain Checker for WP e-Commerce ===
 Contributors: ashokrane
 Tags: email address, domain checker, checkout, email validation
 Requires at least: 3.2
@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin validates the existence of the domain name that is entered in the email address while checkout.
+This plugin validates the existence of the domain name that is entered in the email address while checkout for WP e-Commerce store owners.
 
 == Description ==
 
