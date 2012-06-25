@@ -17,7 +17,7 @@ The checkout process cannot be completed till the email address is entered with 
 
 If the domain is not a valid domain, it will show an error and not allow the customer to checkout till the email address is entered with the correct domain.
 
-**Check out more free & premium plugins at [Tyche Softwares](http://www.tychesoftwares.com/store/premium-plugins/ "Tyche Softwares - the plugin shop")**
+**Check out more free & premium plugins at [Tyche Softwares](http://www.tychesoftwares.com/store/premium-plugins/viral-coupon/ "Tyche Softwares - the plugin shop")**
 
 
 == Installation ==
