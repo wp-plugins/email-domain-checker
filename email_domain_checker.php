@@ -22,7 +22,7 @@ add_action('admin_head', 'wp_admin_script');
 function wp_admin_script() {
 	//Get the url of blog.
 	$path=get_bloginfo('url');
-	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/jquery.js'></script>";
+	//print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/jquery.js'></script>";
 	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/email_domain_checker.js'></script>";
 	//print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/discount.js'></script>";
 }
