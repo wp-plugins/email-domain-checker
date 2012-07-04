@@ -13,8 +13,8 @@ Contributor: Tyche Softwares, http://www.tychesoftwares.com/
 function wp_frontside_scripts() {
 	$path=get_bloginfo('url');
 	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/jquery.js'></script>";
-  print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/email_domain_checker.js'></script>";
-	//print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/discount.js'></script>";
+	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/email_domain_checker.js'></script>";
+	print "<script type='text/javascript'> var site='$path'; </script>";
 }
 add_action ('wp_enqueue_scripts','wp_frontside_scripts');
 
@@ -25,7 +25,7 @@ function wp_admin_script() {
 	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/jquery.js'></script>";
 	print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/email_domain_checker.js'></script>";
 	//print "<script type='text/javascript' src='".$path."/wp-content/plugins/email-domain-checker/js/discount.js'></script>";
-}  
+}
 add_action('wp_ajax_email','email_check_callback');
 add_action('wp_ajax_nopriv_email','email_check_callback');
 

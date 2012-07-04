@@ -40,5 +40,9 @@ The plugin only validates whether the domain name specified in the email address
 
 == Changelog ==
 
+v1.0
+<ul><li>Fixed the issue of plugin not working with pretty urls enabled (Settings => Permalinks)</li></ul>
+
+
 = 1.0 =
 * Initial release.
