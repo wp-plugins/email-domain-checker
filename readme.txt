@@ -20,7 +20,7 @@ If the domain is not a valid domain, it will show an error and not allow the cus
 Other free plugins for WP e-Commerce:
 
 * [Viral Coupon Plugin for WP e-Commerce](http://wordpress.org/extend/plugins/viral-coupon-for-wp-e-commerce-lite "Viral Coupon Plugin") - Social Media Promotion Tool for your store
-* [Order Delivery Date](http://wordpress.org/extend/plugins/order-delivery-date/ "Order Delivery Date") - Allow customers to choose their order's delivery date
+* [Order Delivery Date](http://wordpress.org/extend/plugins/order-delivery-date "Order Delivery Date") - Allow customers to choose their order's delivery date
 
 **Check out more free & premium plugins at [Tyche Softwares](http://www.tychesoftwares.com/store/premium-plugins/viral-coupon-for-wp-e-commerce-pro "Tyche Softwares - the plugin shop")**
 
