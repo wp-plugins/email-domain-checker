@@ -19,12 +19,12 @@ If the domain is not a valid domain, it will show an error and not allow the cus
 
 Other free plugins for WP e-Commerce:
 
-* [Social Media Promotion Plugin (Lite) for WP e-Commerce](http://wordpress.org/extend/plugins/viral-coupon-for-wp-e-commerce-lite "Viral Coupon Plugin") - Social Media Promotion Tool for your store (Facebook)
+* [Viral Coupon Lite for WP e-Commerce](http://wordpress.org/extend/plugins/viral-coupon-for-wp-e-commerce-lite "Viral Coupon Plugin") - Social Media Promotion Tool for your store (Facebook)
 * [Order Delivery Date](http://wordpress.org/extend/plugins/order-delivery-date "Order Delivery Date") - Allow customers to choose their order's delivery date
 
-Premium plugins for WP e-Commerce:
+**Premium plugins for WP e-Commerce:**
 
-* **[Social Media Promotion Plugin](http://codecanyon.net/item/viral-coupon-for-wp-ecommerce/2644621 "Viral Coupon Pro")** - Promotes your store on Twitter & Google+ in addition to Facebook.
+* **[Viral Coupon Pro](http://codecanyon.net/item/viral-coupon-for-wp-ecommerce/2644621 "Viral Coupon Pro")** - Promotes your store on Twitter & Google+ in addition to Facebook.
 
 
 == Installation ==
